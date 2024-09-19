@@ -1,0 +1,12 @@
+#ifndef {MarcroName}
+#define {MarcroName}
+
+#if SHADER_LIB_VERSION == 2021
+{Path2021}
+#elif SHADER_LIB_VERSION == 2020
+{Path2020}
+#elif SHADER_LIB_VERSION == 2019
+{Path2019}
+#endif
+
+#endif

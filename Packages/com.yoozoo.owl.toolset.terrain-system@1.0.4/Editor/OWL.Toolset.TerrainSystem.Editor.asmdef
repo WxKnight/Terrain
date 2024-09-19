@@ -1,0 +1,18 @@
+{
+    "name": "OWL.Toolset.TerrainSystem.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0d7ff58ff1823fe49b16f077fbe76ec3"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

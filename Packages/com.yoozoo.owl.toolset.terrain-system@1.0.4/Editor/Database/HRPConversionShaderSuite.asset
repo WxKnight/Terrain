@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1497c1a2edaa1ef49a3d0b77fa781b34, type: 3}
+  m_Name: HRPConversionShaderSuite
+  m_EditorClassIdentifier: 
+  bakeAlbedoShader: {fileID: 4800000, guid: 9c9a3a50baae48042aed83674087be74, type: 3}
+  bakeBumpShader: {fileID: 4800000, guid: 06ab36113af7c244aa70a9ed6e122866, type: 3}
+  terrainBasemapShader: {fileID: 4800000, guid: 238cb1e97208e894e9aca3b667ea45af,
+    type: 3}
+  terrainSplatmapShader: {fileID: 4800000, guid: 10b9242464f229344996a0630ffbcfca,
+    type: 3}
+  terrainSplatmapAddShader: {fileID: 4800000, guid: 4b0ecd4359e91424cb2b624753e35451,
+    type: 3}
+  terrainSplatmapAtlasShader: {fileID: 4800000, guid: d584ae9cac8a49044b06898ff4f1d3cc,
+    type: 3}

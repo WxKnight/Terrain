@@ -1,0 +1,16 @@
+{
+    "name": "OWL.Rendering.ShaderLibrary",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cf7c0acf64fd60f4fa29eb604aad12a8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
